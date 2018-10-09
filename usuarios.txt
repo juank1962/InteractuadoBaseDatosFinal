@@ -1,0 +1,24 @@
+Para ambas versiones
+------------------------
+
+
+
+Usuario1 = user1@prueba.com
+
+Pasw = 123
+
+
+
+
+
+
+Usuario2 = user2@prueba.com
+
+Pasw = 123
+
+
+
+ 
+Usuario3 = user3@prueba.com
+
+Pasw = 123
